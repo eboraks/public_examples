@@ -1,0 +1,49 @@
+Play to Win: Mobile Game Soft Launch Best Practices
+Doug McCracken and Joshua Lu
+
+We hear a lot of discussion around the best practices for launching a mobile game, and one particular topic that often comes up is: whether or not to do a soft launch. And if you do soft launch, how can you tell if your game will be successful? Much of the mobile games industry has taken the tactic of soft launching seriously – in September alone, there were more than 100 games soft launched on the Apple App Store and over 600 on the Google Play Store.
+
+This blog post will explore what a soft launch is and why it can be beneficial for game studios. We’ll also dispel some of the myths that are commonly associated with soft launches and help you figure out if this strategy is right for your game. We’ll also address why there are so many more games soft launched on Google Play (hint: they have more options to support a variety of soft launch strategies).
+
+What’s a Soft Launch?
+A soft launch (or sometimes “geo test” or “beta”) is when a game is released to a limited number of players before it is released worldwide, usually by releasing only to specific countries. This allows developers to test different aspects of the game, such as the gameplay, graphics, and economy in a real-world environment without the pressure of a full release. Soft launch enables player feedback and metrics which can be used to compare to benchmarks that both Apple’s iOS App Store and Google Play offer in their dashboards.
+
+There are typically two stages of soft launch: alpha and beta.
+
+Alpha is the earlier stage and is often used to test whether the core of the game is working, including the technology and core gameplay loop.
+Beta is later and is used to test the meta gameplay loop, marketing acquisition, server scalability, and monetization.
+Why is soft launch important to consider? Because you only get one shot at a first impression with most of your potential players and you want to make sure the game has the best possible shot at being successful when you launch globally. Mobile gamers are spoiled by choice and have a low propensity to return post-churn. We’ve seen that typically, it is between 5-10x more expensive to acquire a player who already quit than to acquire a new player.
+
+Additionally, distribution is one of the biggest challenges in mobile games – if your users don’t retain or monetize, you’ll have trouble scaling your game via organic growth or paid acquisition. By releasing the game in stages, developers can get valuable feedback from players that can help improve the game before it is released to everyone.
+
+Myths About Soft Launch
+Before we share more perspective on soft launch strategy, we wanted to dispel some common myths:
+
+The country or market chosen for the soft launch will accurately represent how the game will perform worldwide
+
+While it’s important to choose a market that closely aligns with your target demographics, it’s also important to keep in mind that every market is unique and may have different reactions to the game. For example, many developers choose Canada to test how a US launch would perform. In our experience, there are too many variables to accurately simulate a launch in another country, however, retention and monetization metrics compared to other regions can give you some directional understanding of performance.
+
+Soft launch can only be done on mobile platforms like iOS and Android
+
+Though the focus of this post is mobile, a soft launch strategy can also be applied to PC and console games. This can be especially useful for cross platform games to understand the dynamics of players on different platforms, and improve gameplay and performance.
+
+Soft launches are expensive
+
+The investment required for your soft launch is dependent on your goals for soft launch. If you have a strong understanding of your audience, you will be much more likely to target them via organic or paid means in a cost effective way.
+
+You need to soft launch a game for it to succeed
+
+Soft launch is a way to solicit player feedback before a broader global launch, but isn’t necessarily needed to be successful. We believe it is usually better to soft launch, but there are plenty of successful games that went straight to global launch.
+
+Resetting player progress after a soft launch will anger the community
+
+While some players will respond negatively if you reset their progress, many understand that this is the “price of admission” for accessing a game early. As long as you’re upfront with players that the test is limited to a certain number of days, they will understand when the test ends. For example, Supercell recently launched a “Limited Open Beta” to test their game Flood Rush (ultimately based on soft launch Supercell decided not to release globally). If you’re resetting player progress, it is a best practice to refund players who spend during soft launch (or at a minimum, give them the equivalent value of in-game currency to spend later).
+
+What Can you Learn from Soft Launch?
+There are a few questions you should seek to answer with a soft launch, though it’s difficult to answer all of these at a high level of fidelity. If you’re resource constrained, you should think about prioritizing your goals based on what’s most important to the team. 
+
+Is the game stable/performant? 
+
+Building a bug-free game is hard, and while your QA team is heroically finding and triaging bugs, there’s nothing like a soft launch to show you where the holes are. Acquiring users at scale from lower-cost geographies is a great way to stress test servers and also get performance data from long-tail devices. There are a TON of lower-spec Android phones that your QA team won’t have and should probably not be purchasing. Some metrics to keep in mind for this sort of testing include: FPS, crash rates/DAU, crashes/crasher, and latency.
+
+https://a16z.com/mobile-game-soft-launch/
